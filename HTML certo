@@ -1,0 +1,35 @@
+<html>
+    <header>
+      <title>ARENA DOS JOGOS  </title> 
+    </header>
+    <body>
+        <header>
+            <h1>ARENA DOS JOGOS </h1>
+      
+        </header>
+      <main>
+        <section id="jogos">
+            <h1>Jogos Populares</h1>
+            <ul>
+                <li><a href="https://www.rockstargames.com/br/gta-v"> GTA V</a></li>
+           <li><a 
+  href="https://www.rockstargames.com/br/reddeadonline"> Red Dead Redemption 2 </a></li>
+  <li><a href="https://www.rockstargames.com/br/games/maxpayne3">Max Payne 3</a></li>
+          <li><a href="https://www.rockstargames.com/br/">ver mais</a></li>
+            </ul>
+        </section>
+    
+       
+            </ul>
+        </section>
+    
+        <section id="sobre">
+            <h1>Sobre</h1>
+            <p>Este é um site de jogos eletrônicos criado por [ARENA DOS JOGOS]. Aqui, você encontrará informações sobre os jogos mais populares, novidades e muito mais. Se tiver alguma dúvida ou sugestão, entre em contato conosco.</p>
+            <p>E-mail: contato@arenadosjogos.com</p>
+        </section>
+    </main>
+    
+    <footer>
+        <p>&copy; 2023 Arena Dos Jogos </p> 
+    </footer>
